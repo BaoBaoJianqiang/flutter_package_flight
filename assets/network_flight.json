@@ -1,0 +1,11 @@
+{
+  "urlData": [
+    {
+      "key": "getMovieDetail",
+      "expires": 0,
+      "netType": "get",
+      "retryTimes": 3,
+      "url":"/movie/getmoviedetail"
+    }
+  ]
+}

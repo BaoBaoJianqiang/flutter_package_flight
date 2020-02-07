@@ -15,7 +15,7 @@ dependencies:
   flutter_package_network:
     git:
       url: https://github.com/BaoBaoJianqiang/flutter_package_network.git
-
+      tag: t1.1
 
 dev_dependencies:
   flutter_test:
